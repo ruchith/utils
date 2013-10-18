@@ -1,0 +1,38 @@
+#lock_msg {
+	font-size: 40;
+	font-family: sans-serif;
+	color: rgb(255, 255, 255);
+	background-color: rgb(0,0,0);
+	vertical-align: middle;
+	text-align: center;
+}
+
+#lock_msg_wrap{
+	width: 100%;
+	top:50%;
+	position: relative;
+	text-align: center;
+}
+
+#unlock_button
+{
+	height: 45;
+	width: 100;
+	top:50%;
+	position: relative;
+}
+
+#unlock_button_wrap {
+	padding-top: 10;
+}
+
+#content_wrap {
+	text-align: center;
+}
+#content
+{
+	width: 90%;
+	height: 80%;
+	font-family: monospace;
+	font-size: 15;
+}

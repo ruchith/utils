@@ -1,0 +1,37 @@
+#content
+{
+	width: 90%;
+	height: 60%;
+	font-family: monospace;
+	font-size: 15;
+}
+
+#password_div 
+{
+	padding-top: 10;
+	font-family: sans-serif;
+	font-weight: 900;	
+}
+
+#password
+{
+	vertical-align: middle;
+	width: 70%;
+	height: 45;
+	font-size: 20;
+}
+
+#save_button
+{
+	vertical-align: middle;
+	height: 45;
+}
+
+#result_wrap {
+	padding-top: 10;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 900;
+	height: 45;
+	font-size: 20;
+}
