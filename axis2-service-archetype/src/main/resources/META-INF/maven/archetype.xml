@@ -1,0 +1,9 @@
+<archetype>
+  <id>axis2-service-archetype</id>
+  <sources>
+    <source>src/main/java/Service.java</source>
+  </sources>
+  <resources>
+    <resource>src/main/resources/META-INF/services.xml</resource>
+  </resources>
+</archetype>
