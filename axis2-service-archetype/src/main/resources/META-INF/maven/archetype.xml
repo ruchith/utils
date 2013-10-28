@@ -5,5 +5,7 @@
   </sources>
   <resources>
     <resource>src/main/resources/META-INF/services.xml</resource>
+    <resource>scripts/setup</resource>
+    <resource>scripts/start</resource>
   </resources>
 </archetype>
