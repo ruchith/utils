@@ -1,4 +1,5 @@
-This create a simple axis2 service project.
+Maven Archetype to Create a Simple Axis2 Service Project
+========================================================
 
 First git clone this project, cd to axis2-service-archetype directory and do:
 
