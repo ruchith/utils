@@ -1,5 +1,3 @@
-package $org.ruchith.tools;
-
 public class Service 
 {
 
