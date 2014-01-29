@@ -1,5 +1,5 @@
 <service name="service">
-    <parameter name="ServiceClass">Service</parameter>
+    <parameter name="ServiceClass">${groupId}.Service</parameter>
 	<messageReceivers>
         <messageReceiver mep="http://www.w3.org/2004/08/wsdl/in-only"
                          class="org.apache.axis2.rpc.receivers.RPCInOnlyMessageReceiver"/>
