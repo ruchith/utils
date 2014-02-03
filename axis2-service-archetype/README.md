@@ -12,3 +12,18 @@ $ mvn archetype:generate -DarchetypeGroupId=org.ruchith.tools -DarchetypeArtifac
 ```
 
 Replace: -DgroupId=org.test -DartifactId=service-foo with appropriate values.
+
+To build the generated project:
+```
+$ cd service-foo
+$ mvn install
+```
+
+To run the service with simple HTTP server provided with Apache Axis2 binary distribution
+```
+$ cd service-foo/scripts/
+$ ./setup
+$ ./start
+```
+
+
