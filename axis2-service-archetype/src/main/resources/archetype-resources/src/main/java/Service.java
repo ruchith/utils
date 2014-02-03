@@ -1,3 +1,4 @@
+package ${groupId};
 public class Service 
 {
 
